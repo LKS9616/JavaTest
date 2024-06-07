@@ -39,7 +39,7 @@ public class Member {
     }
 
     public double calculateinterest() {
-        return 10.0;
+        return 100.0;
     }
 
 }

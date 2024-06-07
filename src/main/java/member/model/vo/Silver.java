@@ -11,6 +11,6 @@ public class Silver extends Member{
     }
 
     public int buy() {
-        return 10;
+        return 100;
     }
 }
