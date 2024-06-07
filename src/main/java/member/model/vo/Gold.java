@@ -6,6 +6,7 @@ public class Gold extends Member{
         super(name, grade, point);
     }
 
+
     @Override
     public double calculateinterest() {
         return getPoint() * 0.05;

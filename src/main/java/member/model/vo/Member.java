@@ -38,6 +38,7 @@ public class Member {
         this.point = point;
     }
 
+
     public double calculateinterest() {
         return 100.0;
     }
