@@ -7,7 +7,7 @@ public class Vip extends Member{
 
     @Override
     public double calculateinterest() {
-        return getPoint() * 0.1;
+        return this.getPoint() * 0.1;
     }
 
     public int buy() {

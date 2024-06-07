@@ -9,7 +9,7 @@ public class Gold extends Member{
 
     @Override
     public double calculateinterest() {
-        return getPoint() * 0.05;
+        return this.getPoint() * 0.05;
     }
 
     public int buy() {

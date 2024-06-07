@@ -7,7 +7,7 @@ public class Silver extends Member{
 
     @Override
     public double calculateinterest() {
-        return getPoint() * 0.02;
+        return this.getPoint() * 0.02;
     }
 
     public int buy() {
