@@ -11,7 +11,7 @@ public class Vip extends Member{
     }
 
     public int buy() {
-        return 10;
+        return 100;
     }
 }
 

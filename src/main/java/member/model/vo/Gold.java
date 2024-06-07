@@ -12,6 +12,7 @@ public class Gold extends Member{
     }
 
     public int buy() {
-        return 10;
+        return 1000;
+
     }
 }
